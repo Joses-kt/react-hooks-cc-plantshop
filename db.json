@@ -41,6 +41,36 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Mistletoe",
+      "image": "https://res.cloudinary.com/easyplant/image/fetch/f_auto,q_auto:good,c_fill,w_1140,h_1278/https://cdn.shopify.com/s/files/1/0513/8032/2473/products/ZZPlantLarge_Sandy_Pink.jpg?v=1709231649",
+      "price": 30,
+      "id": 8
+    },
+    {
+      "name": "Albuqueque",
+      "image": "https://cdn11.bigcommerce.com/s-wzfpfq4l/images/stencil/1280x1280/products/908/1016/green_plant__56554.1548787500.jpg?c=2",
+      "price": 70,
+      "id": 9
+    },
+    {
+      "name": "Flossqe",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3d-render-of-indoor-green-plant-with-vase-in-white-royalty-free-image-1727983864.jpg?crop=0.44444xw:1xh;center,top&resize=980:*",
+      "price": 15,
+      "id": 10
+    },
+    {
+      "name": "Zeilder",
+      "image": "https://www.zeidlers.com/images/itemVariation/v4_DSC023342160-21040163839.jpg",
+      "price": 43,
+      "id": 11
+    },
+    {
+      "name": "Hummelstown",
+      "image": "https://assets.eflorist.com/assets/products/PZM_/TPL03-1A.jpg?impolicy=hero&impolicy=hero",
+      "price": 100,
+      "id": 12
     }
   ]
 }

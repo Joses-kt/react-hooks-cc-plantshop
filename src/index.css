@@ -28,6 +28,11 @@ button.primary {
   color: white;
 }
 
+button.primary.sold-out {
+  background-color: rgb(221, 219, 219);
+  color: black;
+}
+
 .app {
   margin: 0 auto;
   max-width: 1200px;
@@ -107,6 +112,7 @@ input:focus {
 
 .card img {
   width: 100%;
+  height: 230px;
 }
 
 .card button {
